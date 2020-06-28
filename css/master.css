@@ -3,7 +3,7 @@
 /* Text inside these asterisks and slashes are comments for human */
 
   a {
-    color: white;/* set the text color to blue here */
+    color: green;/* set the text color to blue here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
 
@@ -20,7 +20,7 @@
  background: -o-radial-gradient(0% 100%, ellipse cover, rgba(104,128,138,.4) 10%,rgba(138,114,76,0) 40%), -o-linear-gradient(top, rgba(57,173,219,.25) 0%,rgba(42,60,87,.4) 100%), -o-linear-gradient(-45deg, #670d10 0%,#092756 100%);
  background: -ms-radial-gradient(0% 100%, ellipse cover, rgba(104,128,138,.4) 10%,rgba(138,114,76,0) 40%), -ms-linear-gradient(top, rgba(57,173,219,.25) 0%,rgba(42,60,87,.4) 100%), -ms-linear-gradient(-45deg, #670d10 0%,#092756 100%);
  background: -webkit-radial-gradient(0% 100%, ellipse cover, rgba(104,128,138,.4) 10%,rgba(138,114,76,0) 40%), linear-gradient(to bottom, rgba(57,173,219,.25) 0%,rgba(42,60,87,.4) 100%), linear-gradient(135deg, #670d10 0%,#092756 100%);
-    color: #FFFFFF;
+    color: white;
    /* set the background color here */
     /* set the text color to black here */
     font-family: Arial, Helvetica, sans-serif;/* set the font here */
